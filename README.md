@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Rami Hassan
-<p>Studied Computer Science at Aston University.</p>
+<p>Computer Science Graduate at Aston University.</p>
+<p>Web Developer</p>
 <hr>
 
 ### 🛠 &nbsp;What I am learning and Using:
