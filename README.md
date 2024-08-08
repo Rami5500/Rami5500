@@ -25,22 +25,22 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://example1.com">
-        <img src="path/to/image1.jpg" alt="Website 1" width="300px" />
+      <a href="https://authenticsolutions.co.uk/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/AS-Site-1.png" alt="Website 1" width="300px" />
       </a>
       <br/>
       <strong>Website 1</strong>
     </td>
     <td align="center">
-      <a href="https://example2.com">
-        <img src="path/to/image2.jpg" alt="Website 2" width="300px" />
+      <a href="https://ayos-site.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Ayo-Image%201.png" alt="Website 2" width="300px" />
       </a>
       <br/>
       <strong>Website 2</strong>
     </td>
     <td align="center">
-      <a href="https://example3.com">
-        <img src="path/to/image3.jpg" alt="Website 3" width="300px" />
+      <a href="https://imrans-site.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Imran-Image%201.png" alt="Website 3" width="300px" />
       </a>
       <br/>
       <strong>Website 3</strong>
@@ -48,22 +48,22 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://example4.com">
-        <img src="path/to/image4.jpg" alt="Website 4" width="300px" />
+      <a href="https://sixtigers.co.uk/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Badminton-Image-1.png" alt="Website 4" width="300px" />
       </a>
       <br/>
       <strong>Website 4</strong>
     </td>
     <td align="center">
-      <a href="https://example5.com">
-        <img src="path/to/image5.jpg" alt="Website 5" width="300px" />
+      <a href="https://arjuns-site.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Arjun-Site-1.png" alt="Website 5" width="300px" />
       </a>
       <br/>
       <strong>Website 5</strong>
     </td>
     <td align="center">
-      <a href="https://example6.com">
-        <img src="path/to/image6.jpg" alt="Website 6" width="300px" />
+      <a href="https://niyazportfolio.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Niyaz-Site-1.png" alt="Website 6" width="300px" />
       </a>
       <br/>
       <strong>Website 6</strong>
@@ -71,22 +71,22 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://example7.com">
-        <img src="path/to/image7.jpg" alt="Website 7" width="300px" />
+      <a href="https://digitalwithrami.com/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Rami-After.png" alt="Website 7" width="300px" />
       </a>
       <br/>
       <strong>Website 7</strong>
     </td>
     <td align="center">
-      <a href="https://example8.com">
-        <img src="path/to/image8.jpg" alt="Website 8" width="300px" />
+      <a href="https://ranvirs-site.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Ranvir-Image-1.png" alt="Website 8" width="300px" />
       </a>
       <br/>
       <strong>Website 8</strong>
     </td>
     <td align="center">
-      <a href="https://example9.com">
-        <img src="path/to/image9.jpg" alt="Website 9" width="300px" />
+      <a href="https://mayfair-rec.netlify.app/">
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/recruitment_Image_1.png" alt="Website 9" width="300px" />
       </a>
       <br/>
       <strong>Website 9</strong>
