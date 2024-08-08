@@ -1,6 +1,8 @@
-### Rami Hassan
-<p>Computer Science Graduate at Aston University.</p>
-<p>Web Developer</p>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Rami </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+<h3>👨🏼‍🎓 Rami Hassan | 💻 Web Developer, UI/UX Designer | UK </h3>
+</div>
 <hr>
 
 ### 🛠 &nbsp;What I am Learning and Using:
@@ -14,13 +16,91 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 <hr>
+
+### 💻 &nbsp;Websites I Have Created
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://example1.com">
+        <img src="path/to/image1.jpg" alt="Website 1" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 1</strong>
+    </td>
+    <td align="center">
+      <a href="https://example2.com">
+        <img src="path/to/image2.jpg" alt="Website 2" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 2</strong>
+    </td>
+    <td align="center">
+      <a href="https://example3.com">
+        <img src="path/to/image3.jpg" alt="Website 3" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 3</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://example4.com">
+        <img src="path/to/image4.jpg" alt="Website 4" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 4</strong>
+    </td>
+    <td align="center">
+      <a href="https://example5.com">
+        <img src="path/to/image5.jpg" alt="Website 5" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 5</strong>
+    </td>
+    <td align="center">
+      <a href="https://example6.com">
+        <img src="path/to/image6.jpg" alt="Website 6" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 6</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://example7.com">
+        <img src="path/to/image7.jpg" alt="Website 7" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 7</strong>
+    </td>
+    <td align="center">
+      <a href="https://example8.com">
+        <img src="path/to/image8.jpg" alt="Website 8" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 8</strong>
+    </td>
+    <td align="center">
+      <a href="https://example9.com">
+        <img src="path/to/image9.jpg" alt="Website 9" width="300px" />
+      </a>
+      <br/>
+      <strong>Website 9</strong>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
 
 ### ⚙️ &nbsp;Github Analytics
 <p align="left">
 <a href="https://github.com/Rami5500">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rami5500&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rami5500&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
