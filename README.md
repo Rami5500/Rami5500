@@ -78,7 +78,7 @@
       <strong>Website 7</strong>
     </td>
     <td align="center">
-      <a href="https://ranvirs-site.netlify.app/">
+      <a href="https://ranvir-site.netlify.app/">
         <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Ranvir-Image-1.png" alt="Website 8" width="300px" />
       </a>
       <br/>
