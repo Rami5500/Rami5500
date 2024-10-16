@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Rami </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<h3>👨🏼‍🎓 Rami Hassan | 💻 Web Developer, UI/UX Designer | UK </h3>
+<h3>👨🏼‍🎓 Rami Hassan | 💻 Developer, UI/UX Designer | UK </h3>
 </div>
 <hr>
 
