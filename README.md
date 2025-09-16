@@ -26,7 +26,7 @@
   <tr>
     <td align="center">
       <a href="https://authenticsolutions.co.uk/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/AS-Site-1.png" alt="Website 1" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/AS-Site-1.png" alt="Website 1" width="300px" />
       </a>
       <br/>
       <strong>Website 1</strong>
