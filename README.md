@@ -33,14 +33,14 @@
     </td>
     <td align="center">
       <a href="https://ayos-site.netlify.app/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Ayo-Image%201.png" alt="Website 2" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Ayo-Image%201.png" alt="Website 2" width="300px" />
       </a>
       <br/>
       <strong>Website 2</strong>
     </td>
     <td align="center">
       <a href="https://imrans-site.netlify.app/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Imran-Image%201.png" alt="Website 3" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Imran-Image%202.png" alt="Website 3" width="300px" />
       </a>
       <br/>
       <strong>Website 3</strong>
