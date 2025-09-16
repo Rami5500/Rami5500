@@ -33,7 +33,7 @@
     </td>
     <td align="center">
       <a href="https://ayos-site.netlify.app/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Ayo-Image%201.png" alt="Website 2" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Ayo-Image%202.png" alt="Website 2" width="300px" />
       </a>
       <br/>
       <strong>Website 2</strong>
@@ -49,14 +49,14 @@
   <tr>
     <td align="center">
       <a href="https://sixtigers.co.uk/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Badminton-Image-1.png" alt="Website 4" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Badminton-Image-2.png" alt="Website 4" width="300px" />
       </a>
       <br/>
       <strong>Website 4</strong>
     </td>
     <td align="center">
       <a href="https://arjuns-site.netlify.app/">
-        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/assets/Arjun-Site-1.png" alt="Website 5" width="300px" />
+        <img src="https://github.com/Rami5500/AuthenticSolutions/blob/main/img/Arjun-Site-1.png" alt="Website 5" width="300px" />
       </a>
       <br/>
       <strong>Website 5</strong>
